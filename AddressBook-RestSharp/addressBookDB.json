@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "firstname": "Ajinkya",
+      "lastname": "Rahane",
+      "phoneNo": "6754567887",
+      "address": "Wankhede",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip": "345654",
+      "email": "rs@gmail.com"
+    },
+    {
+      "id": 2,
+      "firstname": "Dinesh",
+      "lastname":"Karthik",
+      "phoneNo": "6754567887",
+      "address": "Chinnaswamy",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "354676",
+      "email": "vs@gmail.com"
+    },
+    {
+      "id": 3,
+      "firstname": "Irfan",
+      "lastname": "Pathan",
+      "phoneNo": "6754457887",
+      "address": "Chidambaram",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "zip": "998765",
+      "email": "msd@gmail.com"
+    }
+    
+  ]
+}
