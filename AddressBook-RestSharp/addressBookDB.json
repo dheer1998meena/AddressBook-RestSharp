@@ -14,7 +14,7 @@
     {
       "id": 2,
       "firstname": "Dinesh",
-      "lastname":"Karthik",
+      "lastname": "Karthik",
       "phoneNo": "6754567887",
       "address": "Chinnaswamy",
       "city": "Bangalore",
@@ -32,7 +32,61 @@
       "state": "Tamil Nadu",
       "zip": "998765",
       "email": "msd@gmail.com"
+    },
+    {
+      "firstname": "Sachin",
+      "lastname": "tendulkar",
+      "phoneNo": "6777456345",
+      "address": "Feroz Shah Kotla",
+      "city": "New Delhi",
+      "state": "New Delhi",
+      "zip": "547677",
+      "email": "vs@gmail.com",
+      "id": 4
+    },
+    {
+      "firstname": "Sachin",
+      "lastname": "tendulkar",
+      "phoneNo": "6777456345",
+      "address": "Feroz Shah Kotla",
+      "city": "New Delhi",
+      "state": "New Delhi",
+      "zip": "547677",
+      "email": "vs@gmail.com",
+      "id": 5
+    },
+    {
+      "firstname": "Sachin",
+      "lastname": "tendulkar",
+      "phoneNo": "6777456345",
+      "address": "Feroz Shah Kotla",
+      "city": "New Delhi",
+      "state": "New Delhi",
+      "zip": "547677",
+      "email": "vs@gmail.com",
+      "id": 6
+    },
+    {
+      "firstname": "virender",
+      "lastname": "Sehwag",
+      "phoneNo": "3456723456",
+      "address": "Chinnaswamy",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "435627",
+      "email": "yc@gmail.com",
+      "id": 7
+    },
+    {
+      "firstname": "Shikhar",
+      "lastname": "Dhawan",
+      "phoneNo": "7654564345",
+      "address": "Mohali",
+      "city": "Mohali",
+      "state": "Punjab",
+      "zip": "113425",
+      "email": "klr@gmail.com",
+      "id": 8
     }
-    
   ]
 }
