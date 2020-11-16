@@ -45,28 +45,6 @@
       "id": 4
     },
     {
-      "firstname": "Sachin",
-      "lastname": "tendulkar",
-      "phoneNo": "6777456345",
-      "address": "Feroz Shah Kotla",
-      "city": "New Delhi",
-      "state": "New Delhi",
-      "zip": "547677",
-      "email": "vs@gmail.com",
-      "id": 5
-    },
-    {
-      "firstname": "Sachin",
-      "lastname": "tendulkar",
-      "phoneNo": "6777456345",
-      "address": "Feroz Shah Kotla",
-      "city": "New Delhi",
-      "state": "New Delhi",
-      "zip": "547677",
-      "email": "vs@gmail.com",
-      "id": 6
-    },
-    {
       "firstname": "virender",
       "lastname": "Sehwag",
       "phoneNo": "3456723456",
@@ -75,18 +53,18 @@
       "state": "Karnataka",
       "zip": "435627",
       "email": "yc@gmail.com",
-      "id": 7
+      "id": 5
     },
     {
       "firstname": "Shikhar",
       "lastname": "Dhawan",
-      "phoneNo": "7654564345",
-      "address": "Mohali",
-      "city": "Mohali",
-      "state": "Punjab",
-      "zip": "113425",
-      "email": "klr@gmail.com",
-      "id": 8
+      "phoneNo": "7858070934",
+      "address": "indian cricket",
+      "city": "delhi",
+      "state": "Inida",
+      "zip": "535678",
+      "email": "sr7@gmail.com",
+      "id": 6
     }
   ]
 }
